@@ -1,0 +1,12 @@
+F:\Assistant\C#\Sip2Client\bin\Release\Sip2Service.exe
+F:\Assistant\C#\Sip2Client\bin\Release\System.Data.SQLite.dll
+F:\Assistant\C#\Sip2Client\bin\Release\Sip2Service.exe.config
+F:\Assistant\C#\Sip2Client\bin\Release\System.Data.SQLite.xml
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Service.MainForm.resources
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Service.GetSip2Form.resources
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Service.Properties.Resources.resources
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Service.SetSip2Form.resources
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Util.csproj.GenerateResource.Cache
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Service.exe
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Util.csprojResolveAssemblyReference.cache
+F:\Assistant\C#\Sip2Client\obj\Release\Sip2Client.Properties.Resources.resources

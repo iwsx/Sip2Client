@@ -1,0 +1,12 @@
+F:\Assistant\C#\Sip2Client\bin\Debug\Sip2Client.exe.config
+F:\Assistant\C#\Sip2Client\bin\Debug\Sip2Client.exe
+F:\Assistant\C#\Sip2Client\bin\Debug\Sip2Client.pdb
+F:\Assistant\C#\Sip2Client\bin\Debug\System.Data.SQLite.dll
+F:\Assistant\C#\Sip2Client\bin\Debug\System.Data.SQLite.xml
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Service.MainForm.resources
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Service.GetSip2Form.resources
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Client.Properties.Resources.resources
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Service.SetSip2Form.resources
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Client.csproj.GenerateResource.Cache
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Client.exe
+F:\Assistant\C#\Sip2Client\obj\Debug\Sip2Client.pdb
